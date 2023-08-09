@@ -1,0 +1,36 @@
+body{
+    background-color:rgb(223, 176, 89);
+    color:white;
+}
+#profile{
+    width:400px;
+    height:400px;
+}
+#middle{
+   text-align:center;
+}
+#left_side{
+  text-align: right;
+  font-size: 40px;
+  padding-right: 90px;
+}
+#right_side{
+    text-align:left;
+    font-size: 40px;
+}
+#email{
+    font-size: 40px;
+}
+#btn{
+    margin-top: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    border-style:groove;
+    font-size:30px;
+    background-color:rgb(76, 230, 45) ;
+    color:white;
+}
+#name{
+  font-size: 50px;
+}
+
